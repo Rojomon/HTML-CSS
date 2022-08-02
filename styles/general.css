@@ -7,5 +7,12 @@ p {
 body {
 	margin: 0;
 	padding-top: 77px;
-	padding-left: 77px;
+	padding-left: 94px;
+	padding-right: 22px;
+	background-color: rgb(246, 246, 246);
+}
+
+a {
+	color: inherit;
+	text-decoration: inherit;
 }
