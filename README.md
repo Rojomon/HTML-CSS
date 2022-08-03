@@ -6,3 +6,5 @@ Techniques We Learned
 3. Grid
 4. Flexbox
 5. Position
+
+![Screenshot](responsive-sidebar.png)
