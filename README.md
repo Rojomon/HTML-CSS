@@ -11,5 +11,5 @@ Techniques I've Learned from this course:
 5. Position
 6. Responsive design
 
-Project preview after I've added responsive design to the Sidebar (challenge exercises):
+Project preview after I've added responsive design to the Sidebar (challenge exercises 17a, 17b, and 17c):
 ![Screenshot](responsive-sidebar.png)
